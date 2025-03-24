@@ -1,0 +1,614 @@
+[
+  {
+    "word": "abandon",
+    "meaning": "ละทิ้ง"
+  },
+  {
+    "word": "ability",
+    "meaning": "ความสามารถ"
+  },
+  {
+    "word": "able",
+    "meaning": "สามารถ"
+  },
+  {
+    "word": "about",
+    "meaning": "เกี่ยวกับ"
+  },
+  {
+    "word": "above",
+    "meaning": "เหนือ"
+  },
+  {
+    "word": "accept",
+    "meaning": "ยอมรับ"
+  },
+  {
+    "word": "accident",
+    "meaning": "อุบัติเหตุ"
+  },
+  {
+    "word": "according",
+    "meaning": "ตามที่"
+  },
+  {
+    "word": "account",
+    "meaning": "บัญชี"
+  },
+  {
+    "word": "accuse",
+    "meaning": "กล่าวหา"
+  },
+  {
+    "word": "achieve",
+    "meaning": "บรรลุ"
+  },
+  {
+    "word": "across",
+    "meaning": "ข้าม"
+  },
+  {
+    "word": "act",
+    "meaning": "กระทำ"
+  },
+  {
+    "word": "action",
+    "meaning": "การกระทำ"
+  },
+  {
+    "word": "active",
+    "meaning": "กระตือรือร้น"
+  },
+  {
+    "word": "activity",
+    "meaning": "กิจกรรม"
+  },
+  {
+    "word": "actor",
+    "meaning": "นักแสดงชาย"
+  },
+  {
+    "word": "actress",
+    "meaning": "นักแสดงหญิง"
+  },
+  {
+    "word": "actual",
+    "meaning": "แท้จริง"
+  },
+  {
+    "word": "actually",
+    "meaning": "จริง ๆ แล้ว"
+  },
+  {
+    "word": "add",
+    "meaning": "เพิ่ม"
+  },
+  {
+    "word": "address",
+    "meaning": "ที่อยู่"
+  },
+  {
+    "word": "administration",
+    "meaning": "การบริหาร"
+  },
+  {
+    "word": "admit",
+    "meaning": "ยอมรับ"
+  },
+  {
+    "word": "adult",
+    "meaning": "ผู้ใหญ่"
+  },
+  {
+    "word": "advance",
+    "meaning": "ความก้าวหน้า"
+  },
+  {
+    "word": "advantage",
+    "meaning": "ข้อได้เปรียบ"
+  },
+  {
+    "word": "advice",
+    "meaning": "คำแนะนำ"
+  },
+  {
+    "word": "affect",
+    "meaning": "มีผลต่อ"
+  },
+  {
+    "word": "afford",
+    "meaning": "สามารถจ่ายได้"
+  },
+  {
+    "word": "afraid",
+    "meaning": "กลัว"
+  },
+  {
+    "word": "after",
+    "meaning": "หลังจาก"
+  },
+  {
+    "word": "afternoon",
+    "meaning": "ตอนบ่าย"
+  },
+  {
+    "word": "again",
+    "meaning": "อีกครั้ง"
+  },
+  {
+    "word": "against",
+    "meaning": "ต่อต้าน"
+  },
+  {
+    "word": "age",
+    "meaning": "อายุ"
+  },
+  {
+    "word": "agency",
+    "meaning": "หน่วยงาน"
+  },
+  {
+    "word": "agent",
+    "meaning": "ตัวแทน"
+  },
+  {
+    "word": "ago",
+    "meaning": "ที่ผ่านมา"
+  },
+  {
+    "word": "agree",
+    "meaning": "เห็นด้วย"
+  },
+  {
+    "word": "agreement",
+    "meaning": "ข้อตกลง"
+  },
+  {
+    "word": "ahead",
+    "meaning": "ข้างหน้า"
+  },
+  {
+    "word": "air",
+    "meaning": "อากาศ"
+  },
+  {
+    "word": "airline",
+    "meaning": "สายการบิน"
+  },
+  {
+    "word": "airport",
+    "meaning": "สนามบิน"
+  },
+  {
+    "word": "alarm",
+    "meaning": "สัญญาณเตือน"
+  },
+  {
+    "word": "album",
+    "meaning": "อัลบั้ม"
+  },
+  {
+    "word": "alcohol",
+    "meaning": "แอลกอฮอล์"
+  },
+  {
+    "word": "alive",
+    "meaning": "มีชีวิต"
+  },
+  {
+    "word": "all",
+    "meaning": "ทั้งหมด"
+  },
+  {
+    "word": "allow",
+    "meaning": "อนุญาต"
+  },
+  {
+    "word": "almost",
+    "meaning": "เกือบ"
+  },
+  {
+    "word": "alone",
+    "meaning": "คนเดียว"
+  },
+  {
+    "word": "along",
+    "meaning": "ตาม"
+  },
+  {
+    "word": "already",
+    "meaning": "เรียบร้อยแล้ว"
+  },
+  {
+    "word": "also",
+    "meaning": "ด้วย"
+  },
+  {
+    "word": "although",
+    "meaning": "แม้ว่า"
+  },
+  {
+    "word": "always",
+    "meaning": "เสมอ"
+  },
+  {
+    "word": "amazing",
+    "meaning": "น่าทึ่ง"
+  },
+  {
+    "word": "among",
+    "meaning": "ในหมู่"
+  },
+  {
+    "word": "amount",
+    "meaning": "จำนวน"
+  },
+  {
+    "word": "analysis",
+    "meaning": "การวิเคราะห์"
+  },
+  {
+    "word": "analyze",
+    "meaning": "วิเคราะห์"
+  },
+  {
+    "word": "ancient",
+    "meaning": "โบราณ"
+  },
+  {
+    "word": "anger",
+    "meaning": "ความโกรธ"
+  },
+  {
+    "word": "angle",
+    "meaning": "มุม"
+  },
+  {
+    "word": "angry",
+    "meaning": "โกรธ"
+  },
+  {
+    "word": "animal",
+    "meaning": "สัตว์"
+  },
+  {
+    "word": "announce",
+    "meaning": "ประกาศ"
+  },
+  {
+    "word": "annual",
+    "meaning": "ประจำปี"
+  },
+  {
+    "word": "another",
+    "meaning": "อีกอัน"
+  },
+  {
+    "word": "answer",
+    "meaning": "คำตอบ"
+  },
+  {
+    "word": "anxiety",
+    "meaning": "ความวิตกกังวล"
+  },
+  {
+    "word": "any",
+    "meaning": "ใด ๆ"
+  },
+  {
+    "word": "anybody",
+    "meaning": "ใครก็ได้"
+  },
+  {
+    "word": "anymore",
+    "meaning": "อีกต่อไป"
+  },
+  {
+    "word": "anyone",
+    "meaning": "ใครก็ได้"
+  },
+  {
+    "word": "anything",
+    "meaning": "อะไรก็ได้"
+  },
+  {
+    "word": "anyway",
+    "meaning": "อย่างไรก็ตาม"
+  },
+  {
+    "word": "anywhere",
+    "meaning": "ที่ใดก็ได้"
+  },
+  {
+    "word": "apart",
+    "meaning": "แยกจากกัน"
+  },
+  {
+    "word": "apartment",
+    "meaning": "อพาร์ตเมนต์"
+  },
+  {
+    "word": "apology",
+    "meaning": "คำขอโทษ"
+  },
+  {
+    "word": "app",
+    "meaning": "แอป"
+  },
+  {
+    "word": "apparent",
+    "meaning": "ชัดเจน"
+  },
+  {
+    "word": "apparently",
+    "meaning": "ดูเหมือนว่า"
+  },
+  {
+    "word": "appeal",
+    "meaning": "ดึงดูด"
+  },
+  {
+    "word": "appear",
+    "meaning": "ปรากฏ"
+  },
+  {
+    "word": "appearance",
+    "meaning": "การปรากฏ"
+  },
+  {
+    "word": "apple",
+    "meaning": "แอปเปิล"
+  },
+  {
+    "word": "application",
+    "meaning": "แอปพลิเคชัน"
+  },
+  {
+    "word": "apply",
+    "meaning": "สมัคร/ใช้"
+  },
+  {
+    "word": "appoint",
+    "meaning": "แต่งตั้ง"
+  },
+  {
+    "word": "appointment",
+    "meaning": "การนัดหมาย"
+  },
+  {
+    "word": "appreciate",
+    "meaning": "ชื่นชม"
+  },
+  {
+    "word": "approach",
+    "meaning": "วิธีการ/เข้าใกล้"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "เหมาะสม"
+  },
+  {
+    "word": "approval",
+    "meaning": "การอนุมัติ"
+  },
+  {
+    "word": "approve",
+    "meaning": "อนุมัติ"
+  },
+  {
+    "word": "area",
+    "meaning": "พื้นที่"
+  },
+  {
+    "word": "argue",
+    "meaning": "โต้แย้ง"
+  },
+  {
+    "word": "argument",
+    "meaning": "การโต้แย้ง"
+  },
+  {
+    "word": "arise",
+    "meaning": "เกิดขึ้น"
+  },
+  {
+    "word": "arm",
+    "meaning": "แขน"
+  },
+  {
+    "word": "army",
+    "meaning": "กองทัพ"
+  },
+  {
+    "word": "around",
+    "meaning": "รอบ ๆ"
+  },
+  {
+    "word": "arrange",
+    "meaning": "จัดเตรียม"
+  },
+  {
+    "word": "arrangement",
+    "meaning": "การจัดการ"
+  },
+  {
+    "word": "arrest",
+    "meaning": "จับกุม"
+  },
+  {
+    "word": "arrival",
+    "meaning": "การมาถึง"
+  },
+  {
+    "word": "arrive",
+    "meaning": "มาถึง"
+  },
+  {
+    "word": "art",
+    "meaning": "ศิลปะ"
+  },
+  {
+    "word": "article",
+    "meaning": "บทความ"
+  },
+  {
+    "word": "artist",
+    "meaning": "ศิลปิน"
+  },
+  {
+    "word": "artistic",
+    "meaning": "เกี่ยวกับศิลปะ"
+  },
+  {
+    "word": "asleep",
+    "meaning": "หลับ"
+  },
+  {
+    "word": "aspect",
+    "meaning": "แง่มุม"
+  },
+  {
+    "word": "assault",
+    "meaning": "การจู่โจม"
+  },
+  {
+    "word": "assert",
+    "meaning": "ยืนยัน"
+  },
+  {
+    "word": "assess",
+    "meaning": "ประเมิน"
+  },
+  {
+    "word": "assessment",
+    "meaning": "การประเมิน"
+  },
+  {
+    "word": "asset",
+    "meaning": "ทรัพย์สิน"
+  },
+  {
+    "word": "assign",
+    "meaning": "มอบหมาย"
+  },
+  {
+    "word": "assignment",
+    "meaning": "งานที่ได้รับมอบหมาย"
+  },
+  {
+    "word": "assist",
+    "meaning": "ช่วยเหลือ"
+  },
+  {
+    "word": "assistance",
+    "meaning": "ความช่วยเหลือ"
+  },
+  {
+    "word": "assistant",
+    "meaning": "ผู้ช่วย"
+  },
+  {
+    "word": "associate",
+    "meaning": "เกี่ยวข้อง"
+  },
+  {
+    "word": "association",
+    "meaning": "สมาคม"
+  },
+  {
+    "word": "assume",
+    "meaning": "สันนิษฐาน"
+  },
+  {
+    "word": "assumption",
+    "meaning": "การสันนิษฐาน"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "บรรยากาศ"
+  },
+  {
+    "word": "attach",
+    "meaning": "แนบ"
+  },
+  {
+    "word": "attack",
+    "meaning": "โจมตี"
+  },
+  {
+    "word": "attempt",
+    "meaning": "ความพยายาม"
+  },
+  {
+    "word": "attend",
+    "meaning": "เข้าร่วม"
+  },
+  {
+    "word": "attention",
+    "meaning": "ความสนใจ"
+  },
+  {
+    "word": "attitude",
+    "meaning": "ทัศนคติ"
+  },
+  {
+    "word": "attorney",
+    "meaning": "ทนายความ"
+  },
+  {
+    "word": "attract",
+    "meaning": "ดึงดูด"
+  },
+  {
+    "word": "attraction",
+    "meaning": "แหล่งดึงดูด"
+  },
+  {
+    "word": "attractive",
+    "meaning": "น่าดึงดูด"
+  },
+  {
+    "word": "audience",
+    "meaning": "ผู้ชม"
+  },
+  {
+    "word": "author",
+    "meaning": "ผู้เขียน"
+  },
+  {
+    "word": "authority",
+    "meaning": "อำนาจ"
+  },
+  {
+    "word": "available",
+    "meaning": "ใช้ได้"
+  },
+  {
+    "word": "average",
+    "meaning": "ค่าเฉลี่ย"
+  },
+  {
+    "word": "avoid",
+    "meaning": "หลีกเลี่ยง"
+  },
+  {
+    "word": "award",
+    "meaning": "รางวัล"
+  },
+  {
+    "word": "aware",
+    "meaning": "ตระหนัก"
+  },
+  {
+    "word": "awareness",
+    "meaning": "การรับรู้"
+  },
+  {
+    "word": "away",
+    "meaning": "ห่างออกไป"
+  },
+  {
+    "word": "awesome",
+    "meaning": "ยอดเยี่ยม"
+  }
+]

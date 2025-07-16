@@ -1,0 +1,2 @@
+# YOLO
+Only merge once 😎
